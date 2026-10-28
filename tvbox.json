@@ -560,7 +560,7 @@
    "api": "csp_XBPQ",
    "playerType": 1,
    "timeout": 60,
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/XBPQ.jar",
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/小白.json"
   },
   {
@@ -573,7 +573,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/bttt.json",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/XBPQ.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar"
   },
   {
    "key": "布谷tv",
@@ -584,7 +584,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/XBPQ.jar",
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/布谷4K.json"
   },
   {
@@ -597,7 +597,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/好恐怖.json",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/XBPQ.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar"
   },
   {
    "key": "圣城1080",
@@ -609,7 +609,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/圣城1080.json",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/XBPQ.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar"
   },
   {
    "key": "秋霞",
@@ -621,7 +621,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/秋霞.json",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/XBPQ.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar"
   },
   {
    "key": "VidHub",
@@ -633,7 +633,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/VidHub.json",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/XBPQ.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar"
   },
   {
    "key": "rarbt",
@@ -645,14 +645,14 @@
    "filterable": 1,
    "api": "csp_XBPQ",
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/rarbt.json",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/XBPQ.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar"
   },
   {
    "key": "XBPQ_文才",
    "name": "文才",
    "type": 3,
    "api": "csp_XBPQ",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/XBPQ.jar",
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/文才.json"
   },
   {
@@ -660,7 +660,7 @@
    "name": "白嫖影视",
    "type": 3,
    "api": "csp_XBPQ",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/XBPQ.jar",
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/白嫖影视.json"
   },
   {
@@ -668,13 +668,13 @@
    "name": "黑狐影院",
    "type": 3,
    "api": "csp_XBPQ",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/XBPQ.jar",
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/黑狐影院.json"
   },
   {
    "key": "XBPQ_电影先生",
    "name": "电影先生",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/XBPQ.jar",
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
    "type": 3,
    "api": "csp_XBPQ",
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/电影先生.json"
@@ -687,7 +687,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/XBPQ.jar",
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/麻衣影院.json"
   },
   {
@@ -701,7 +701,7 @@
    },
    "quickSearch": 0,
    "api": "csp_XBPQ",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/XBPQ.jar",
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/相声.json"
   },
   {
@@ -715,7 +715,7 @@
    },
    "quickSearch": 0,
    "api": "csp_XBPQ",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/XBPQ.jar",
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/评书.json"
   },
   {
@@ -823,7 +823,7 @@
    "type": 3,
    "api": "csp_DoubanForTVBox",
    "searchable": 0,
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_CandyMuj_freeok",
@@ -833,7 +833,7 @@
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 1,
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_CandyMuj_hjtv",
@@ -843,7 +843,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_CandyMuj_haokongbu",
@@ -853,7 +853,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_CandyMuj_taoju",
@@ -863,7 +863,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_CandyMuj_dmxq",
@@ -873,7 +873,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_CandyMuj_cokemv",
@@ -883,7 +883,7 @@
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 1,
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_WoGG",
@@ -918,7 +918,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_CandyMuj_nkvod",
@@ -928,7 +928,7 @@
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 1,
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_CandyMuj_yzzy",
@@ -938,7 +938,7 @@
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 1,
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_CandyMuj_qiqiyy",
@@ -948,7 +948,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_CandyMuj_lm5",
@@ -958,7 +958,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_AppYsV2_3",
@@ -1006,7 +1006,7 @@
    "api": "csp_Ddrk",
    "click": "ddys.pro;#vjsp > button",
    "searchable": 1,
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_NongMing",
@@ -1014,7 +1014,7 @@
    "type": 3,
    "api": "csp_NongMing",
    "searchable": 1,
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_Voflix",
@@ -1023,7 +1023,7 @@
    "api": "csp_Voflix",
    "searchable": 1,
    "ext": "https://www.voflix.me/",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_Anime1",
@@ -1031,7 +1031,7 @@
    "type": 3,
    "api": "csp_Anime1",
    "searchable": 1,
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_BTPiaoHua",
@@ -1039,7 +1039,7 @@
    "type": 3,
    "api": "csp_BTPiaoHua",
    "searchable": 1,
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_SixV",
@@ -1048,7 +1048,7 @@
    "api": "csp_SixV",
    "searchable": 1,
    "ext": "https://www.6vdy.org/",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_IQIYI",
@@ -1057,7 +1057,7 @@
    "api": "csp_IQIYI",
    "searchable": 1,
    "ext": "综合",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_MGTV",
@@ -1066,7 +1066,7 @@
    "api": "csp_MGTV",
    "searchable": 1,
    "ext": "playerjy",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_SP360",
@@ -1075,7 +1075,7 @@
    "api": "csp_SP360",
    "searchable": 1,
    "ext": "playerjy",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_Live2Vod_1",
@@ -1084,7 +1084,7 @@
    "api": "csp_Live2Vod",
    "searchable": 0,
    "ext": "南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://cdn.jsdelivr.net/gh/zhixc/CatVodTVSpider/pic/live.png",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_Live2Vod_2",
@@ -1093,7 +1093,7 @@
    "api": "csp_Live2Vod",
    "searchable": 0,
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/conf/live.json",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_Yj1211",
@@ -1101,7 +1101,7 @@
    "type": 3,
    "api": "csp_Yj1211",
    "searchable": 1,
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/jiankang_spider.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
    "key": "csp_Bili_1",
@@ -2142,7 +2142,7 @@
    "type": 3,
    "api": "csp_PushAgent",
    "searchable": 0,
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/XBPQ.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar"
   }
  ],
  "lives": [
