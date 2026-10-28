@@ -3,204 +3,40 @@
  "wallpaper": "https://jianbian.chuqiuyu.workers.dev",
  "sites": [
   {
-   "key": "豆瓣",
-   "name": "豆瓣",
+   "key": "Wogg",
+   "name": "玩偶",
    "type": 3,
-   "api": "csp_Douban",
-   "indexs": 1,
-   "searchable": 0,
-   "changeable": 1,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/douban.json"
-  },
-  {
-   "key": "csp_Bili",
-   "name": "哔哩",
-   "type": 3,
-   "api": "csp_Bili",
-   "searchable": 1,
-   "quickSearch": 1,
-   "style": {
-    "type": "rect",
-    "ratio": 1.755
-   },
-   "filterable": 1,
-   "changeable": 0,
-   "ext": {
-    "json": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/bili.json",
-    "cookie": ""
-   }
-  },
-  {
-   "key": "Youtube",
-   "name": "Youtube",
-   "type": 3,
-   "api": "csp_Youtube",
-   "searchable": 1,
-   "quickSearch": 0,
-   "changeable": 0,
-   "ext": {
-    "token": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json",
-    "json": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/youtube.json",
-    "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-    "proxy": "socks5://127.0.0.1:10172",
-    "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
-    "codecs": "",
-    "danmu": true
-   },
-   "style": {
-    "type": "rect",
-    "ratio": 1.77
-   }
-  },
-  {
-   "key": "FirstAid",
-   "name": "急救",
-   "type": 3,
-   "api": "csp_FirstAid",
-   "searchable": 0,
-   "quickSearch": 0,
-   "changeable": 0,
-   "style": {
-    "type": "rect",
-    "ratio": 3.8
-   }
-  },
-  {
-   "key": "看球",
-   "name": "看球",
-   "type": 3,
-   "api": "csp_Kanqiu",
-   "searchable": 1,
-   "changeable": 0,
-   "style": {
-    "type": "list"
-   }
-  },
-  {
-   "key": "csp_XPath_企鹅体育",
-   "name": "企鹅",
-   "type": 3,
-   "api": "csp_XPath",
-   "style": {
-    "type": "rect",
-    "ratio": 1.597
-   },
-   "searchable": 0,
-   "quickSearch": 0,
-   "changeable": 0,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/企鹅直播.json"
-  },
-  {
-   "key": "酷狗",
-   "name": "酷狗",
-   "type": 3,
-   "api": "csp_Kugou",
-   "searchable": 1,
-   "changeable": 0
-  },
-  {
-   "key": "Iktv",
-   "name": "KTV",
-   "type": 3,
-   "api": "csp_Iktv",
-   "searchable": 1,
-   "changeable": 0
-  },
-  {
-   "key": "Yinyuetai",
-   "name": "音悦台",
-   "type": 3,
-   "api": "csp_Yinyuetai",
-   "searchable": 1,
-   "changeable": 0
-  },
-  {
-   "key": "追剧",
-   "name": "追剧",
-   "type": 3,
-   "api": "csp_TTian",
-   "playerType": 1,
-   "ext": "http://app.kzjtv.com$$$null$$$1"
-  },
-  {
-   "key": "天天",
-   "name": "天天",
-   "type": 3,
-   "api": "csp_TTian",
-   "playerType": 1,
-   "ext": "http://op.ysdqjs.cn$$$null$$$1"
-  },
-  {
-   "key": "Bdys_spider",
-   "name": "哔滴",
-   "api": "csp_Bdys01",
-   "type": 3,
-   "filterable": 1,
-   "quickSearch": 1,
-   "searchable": 1,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.yjys01.com/$$$null$$$1",
-   "timeout": 60
-  },
-  {
-   "key": "荐片弹幕版",
-   "name": "荐片",
-   "type": 3,
-   "api": "csp_Jianpian",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/jianpian.json$$$1",
-   "timeout": 60
-  },
-  {
-   "key": "Bt0",
-   "name": "不太灵",
-   "type": 3,
-   "api": "csp_Bt0",
+   "api": "csp_Wogg",
    "quickSearch": 1,
    "changeable": 1,
    "filterable": 1,
    "timeout": 60,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$null$$$proxy$$$1"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./json/wogg.json$$$WOGG"
   },
   {
-   "key": "csp_Xunlei8",
-   "name": "迅雷吧",
+   "key": "csp_WoGG",
+   "name": "玩偶影视4K",
    "type": 3,
-   "api": "csp_Xunlei8",
-   "playerType": 1,
+   "api": "csp_Wogg",
    "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "timeout": 60
-  },
-  {
-   "key": "SeedHub",
-   "name": "SeedHub",
-   "type": 3,
-   "api": "csp_SeedHub",
-   "playerType": "1",
    "changeable": 0,
-   "timeout": 60
+   "ext": {
+    "token": "CandyMuj",
+    "filter": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/conf/wogg.json"
+   }
   },
   {
-   "key": "Mayiys",
-   "name": "蚂蚁",
+   "key": "csp_WoGG1",
+   "name": "玩偶影视4K-备1",
    "type": 3,
-   "api": "csp_Mayiys",
+   "api": "csp_Wogg",
    "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "changeable": 1
-  },
-  {
-   "key": "csp_Kuaikan",
-   "name": "快看",
-   "type": 3,
-   "api": "csp_Kuaikan",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
+   "changeable": 0,
+   "ext": {
+    "token": "影視天下第一",
+    "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
+   },
+   "jar": "https://gh-proxy.com/github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
    "key": "泥巴",
@@ -217,6 +53,15 @@
    "api": "csp_Star",
    "searchable": 1,
    "changeable": 1
+  },
+  {
+   "key": "獨播",
+   "name": "獨播",
+   "type": 3,
+   "api": "csp_XPathMacFilter",
+   "searchable": 1,
+   "changeable": 0,
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/duboku.json$$$socks5://127.0.0.1:10172"
   },
   {
    "key": "影视",
@@ -243,57 +88,77 @@
    "changeable": 1
   },
   {
-   "key": "獨播",
-   "name": "獨播",
+   "key": "Bdys_spider",
+   "name": "哔滴",
+   "api": "csp_Bdys01",
    "type": 3,
-   "api": "csp_XPathMacFilter",
+   "filterable": 1,
+   "quickSearch": 1,
    "searchable": 1,
-   "changeable": 0,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/duboku.json$$$socks5://127.0.0.1:10172"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.yjys01.com/$$$null$$$1",
+   "timeout": 60
   },
   {
-   "key": "Wogg",
-   "name": "玩偶",
+   "key": "荐片弹幕版",
+   "name": "荐片",
    "type": 3,
-   "api": "csp_Wogg",
+   "api": "csp_Jianpian",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/jianpian.json$$$1",
+   "timeout": 60
+  },
+  {
+   "key": "賤賤",
+   "name": "賤賤",
+   "type": 3,
+   "api": "csp_Jianpian",
+   "searchable": 1,
+   "changeable": 1,
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/jianpian.json"
+  },
+  {
+   "key": "Bt0",
+   "name": "不太灵",
+   "type": 3,
+   "api": "csp_Bt0",
    "quickSearch": 1,
    "changeable": 1,
    "filterable": 1,
    "timeout": 60,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./json/wogg.json$$$WOGG"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$null$$$proxy$$$1"
   },
   {
-   "key": "Wobg",
-   "name": "表哥",
+   "key": "csp_Kuaikan",
+   "name": "快看",
    "type": 3,
-   "api": "csp_Wobg",
+   "api": "csp_Kuaikan",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "美剧迷",
+   "name": "美剧迷",
+   "type": 3,
+   "api": "csp_Meijumi",
    "quickSearch": 1,
    "changeable": 1,
    "filterable": 1,
-   "timeout": 60,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./json/wogg.json$$$WOBG"
+   "timeout": 30,
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.meijumi.xyz/$$$null$$$1"
   },
   {
-   "key": "yydsys",
-   "name": "老哥",
+   "key": "Ppxzy",
+   "name": "皮皮虾",
    "type": 3,
-   "api": "csp_Wobg",
+   "api": "csp_Ppxzy",
    "quickSearch": 1,
    "changeable": 1,
    "filterable": 1,
-   "timeout": 60,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./json/wogg.json$$$WNLG"
-  },
-  {
-   "key": "蜡笔网盘",
-   "name": "蜡笔",
-   "type": 3,
-   "api": "csp_Wobg",
-   "quickSearch": 1,
-   "changeable": 1,
-   "filterable": 1,
-   "timeout": 60,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://duopan.fun/$$$noproxy$$$1$$$./json/wogg.json$$$LABI"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://ppxzy.ink/$$$null$$$1",
+   "timeout": 30
   },
   {
    "key": "Moli",
@@ -351,39 +216,6 @@
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://ddys.pro/$$$proxy$$$1$$$"
   },
   {
-   "key": "美剧迷",
-   "name": "美剧迷",
-   "type": 3,
-   "api": "csp_Meijumi",
-   "quickSearch": 1,
-   "changeable": 1,
-   "filterable": 1,
-   "timeout": 30,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.meijumi.xyz/$$$null$$$1"
-  },
-  {
-   "key": "Ppxzy",
-   "name": "皮皮虾",
-   "type": 3,
-   "api": "csp_Ppxzy",
-   "quickSearch": 1,
-   "changeable": 1,
-   "filterable": 1,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://ppxzy.ink/$$$null$$$1",
-   "timeout": 30
-  },
-  {
-   "key": "Panta",
-   "name": "盘Ta",
-   "type": 3,
-   "api": "csp_Panta",
-   "quickSearch": 1,
-   "changeable": 1,
-   "filterable": 1,
-   "timeout": 30,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.91panta.cn/$$$null$$$1"
-  },
-  {
    "key": "Hdhive",
    "name": "影巢",
    "type": 3,
@@ -393,16 +225,6 @@
    "filterable": 1,
    "timeout": 60,
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://hdhive.online$$$noproxy$$$1$$$http://127.0.0.1:9978/file/TV/hdhive.txt"
-  },
-  {
-   "key": "新6V",
-   "name": "新6V",
-   "type": 3,
-   "api": "csp_Xb6v",
-   "searchable": 1,
-   "changeable": 1,
-   "timeout": 60,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.66ss.org$$$null$$$1"
   },
   {
    "key": "4KHDR",
@@ -435,60 +257,6 @@
    "timeout": 30
   },
   {
-   "key": "YunPan",
-   "name": "云盘",
-   "type": 3,
-   "api": "csp_YunPan",
-   "timeout": 60,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$null$$$proxy$$$1"
-  },
-  {
-   "key": "Wo4k",
-   "name": "玩偶4k",
-   "type": 3,
-   "api": "csp_Wo4k",
-   "quickSearch": 1,
-   "changeable": 1,
-   "filterable": 1,
-   "timeout": 60,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./wogg.json"
-  },
-  {
-   "key": "Xpanpan",
-   "name": "小盘盘",
-   "type": 3,
-   "api": "csp_Xpanpan",
-   "quickSearch": 1,
-   "changeable": 1,
-   "filterable": 1,
-   "timeout": 60,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://xpanpan.site$$$null$$$1",
-   "style": {
-    "type": "list",
-    "ratio": 1.1
-   }
-  },
-  {
-   "key": "盘友圈",
-   "name": "盘友圈",
-   "type": 3,
-   "api": "csp_Panyq",
-   "timeout": 60,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json"
-  },
-  {
-   "key": "csp_HunHePan",
-   "name": "混合盘",
-   "type": 3,
-   "api": "csp_HunHePan",
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 1,
-   "filterable": 0,
-   "timeout": 60,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$null$$$1"
-  },
-  {
    "key": "Libvio",
    "name": "LIBVIO",
    "type": 3,
@@ -509,49 +277,6 @@
    "filterable": 1,
    "timeout": 30,
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://pan.qianfan.app$$$null$$$QianFanID="
-  },
-  {
-   "key": "YunSo",
-   "name": "小云",
-   "type": 3,
-   "api": "csp_YunSo",
-   "quickSearch": 1,
-   "changeable": 1,
-   "filterable": 1,
-   "timeout": 30,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json"
-  },
-  {
-   "key": "YunPanOne",
-   "name": "云盘One",
-   "type": 3,
-   "api": "csp_YunPanOne",
-   "quickSearch": 1,
-   "changeable": 1,
-   "filterable": 1,
-   "timeout": 60,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$proxy$$$1"
-  },
-  {
-   "key": "小紙條",
-   "name": "小紙條",
-   "type": 3,
-   "api": "csp_XiaoZhiTiao",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json",
-   "timeout": 30
-  },
-  {
-   "key": "找資源",
-   "name": "找資源",
-   "type": 3,
-   "api": "csp_Zhaozy",
-   "searchable": 1,
-   "changeable": 0,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$fanty$$$qqq111",
-   "timeout": 30
   },
   {
    "key": "小白",
@@ -719,6 +444,416 @@
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/评书.json"
   },
   {
+   "key": "豆瓣",
+   "name": "豆瓣",
+   "type": 3,
+   "api": "csp_Douban",
+   "indexs": 1,
+   "searchable": 0,
+   "changeable": 1,
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/douban.json"
+  },
+  {
+   "key": "csp_Bili",
+   "name": "哔哩",
+   "type": 3,
+   "api": "csp_Bili",
+   "searchable": 1,
+   "quickSearch": 1,
+   "style": {
+    "type": "rect",
+    "ratio": 1.755
+   },
+   "filterable": 1,
+   "changeable": 0,
+   "ext": {
+    "json": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/bili.json",
+    "cookie": ""
+   }
+  },
+  {
+   "key": "csp_Bili_2",
+   "name": "哔哩合集",
+   "type": 3,
+   "api": "csp_Bili",
+   "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 1,
+   "style": {
+    "type": "rect",
+    "ratio": 1.433
+   },
+   "ext": {
+    "json": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/conf/bili.json"
+   }
+  },
+  {
+   "key": "csp_Bili_1",
+   "name": "少儿教育",
+   "type": 3,
+   "api": "csp_Bili",
+   "searchable": 0,
+   "quickSearch": 0,
+   "filterable": 1,
+   "changeable": 0,
+   "style": {
+    "type": "rect",
+    "ratio": 1.433
+   },
+   "ext": {
+    "json": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/conf/bili1.json"
+   }
+  },
+  {
+   "key": "csp_Bili_2_2",
+   "name": "小学课堂",
+   "type": 3,
+   "api": "csp_Bili",
+   "searchable": 0,
+   "quickSearch": 0,
+   "filterable": 1,
+   "changeable": 0,
+   "style": {
+    "type": "rect",
+    "ratio": 1.433
+   },
+   "ext": {
+    "json": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/conf/bili2.json"
+   }
+  },
+  {
+   "key": "csp_Bili_3",
+   "name": "初中课堂",
+   "type": 3,
+   "api": "csp_Bili",
+   "searchable": 0,
+   "quickSearch": 0,
+   "filterable": 1,
+   "changeable": 0,
+   "style": {
+    "type": "rect",
+    "ratio": 1.433
+   },
+   "ext": {
+    "json": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/conf/bili3.json"
+   }
+  },
+  {
+   "key": "csp_Bili_4",
+   "name": "高中课堂",
+   "type": 3,
+   "api": "csp_Bili",
+   "searchable": 0,
+   "quickSearch": 0,
+   "filterable": 1,
+   "changeable": 0,
+   "style": {
+    "type": "rect",
+    "ratio": 1.433
+   },
+   "ext": {
+    "json": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/conf/bili4.json"
+   }
+  },
+  {
+   "key": "csp_Bili_5",
+   "name": "戏曲",
+   "type": 3,
+   "api": "csp_Bili",
+   "searchable": 0,
+   "quickSearch": 0,
+   "filterable": 1,
+   "changeable": 0,
+   "style": {
+    "type": "rect",
+    "ratio": 1.433
+   },
+   "ext": {
+    "json": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/conf/bili5.json"
+   }
+  },
+  {
+   "key": "看球",
+   "name": "看球",
+   "type": 3,
+   "api": "csp_Kanqiu",
+   "searchable": 1,
+   "changeable": 0,
+   "style": {
+    "type": "list"
+   }
+  },
+  {
+   "key": "csp_XPath_企鹅体育",
+   "name": "企鹅",
+   "type": 3,
+   "api": "csp_XPath",
+   "style": {
+    "type": "rect",
+    "ratio": 1.597
+   },
+   "searchable": 0,
+   "quickSearch": 0,
+   "changeable": 0,
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/企鹅直播.json"
+  },
+  {
+   "key": "Youtube",
+   "name": "Youtube",
+   "type": 3,
+   "api": "csp_Youtube",
+   "searchable": 1,
+   "quickSearch": 0,
+   "changeable": 0,
+   "ext": {
+    "token": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json",
+    "json": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/youtube.json",
+    "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+    "proxy": "socks5://127.0.0.1:10172",
+    "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+    "codecs": "",
+    "danmu": true
+   },
+   "style": {
+    "type": "rect",
+    "ratio": 1.77
+   }
+  },
+  {
+   "key": "FirstAid",
+   "name": "急救",
+   "type": 3,
+   "api": "csp_FirstAid",
+   "searchable": 0,
+   "quickSearch": 0,
+   "changeable": 0,
+   "style": {
+    "type": "rect",
+    "ratio": 3.8
+   }
+  },
+  {
+   "key": "酷狗",
+   "name": "酷狗",
+   "type": 3,
+   "api": "csp_Kugou",
+   "searchable": 1,
+   "changeable": 0
+  },
+  {
+   "key": "Iktv",
+   "name": "KTV",
+   "type": 3,
+   "api": "csp_Iktv",
+   "searchable": 1,
+   "changeable": 0
+  },
+  {
+   "key": "Yinyuetai",
+   "name": "音悦台",
+   "type": 3,
+   "api": "csp_Yinyuetai",
+   "searchable": 1,
+   "changeable": 0
+  },
+  {
+   "key": "追剧",
+   "name": "追剧",
+   "type": 3,
+   "api": "csp_TTian",
+   "playerType": 1,
+   "ext": "http://app.kzjtv.com$$$null$$$1"
+  },
+  {
+   "key": "天天",
+   "name": "天天",
+   "type": 3,
+   "api": "csp_TTian",
+   "playerType": 1,
+   "ext": "http://op.ysdqjs.cn$$$null$$$1"
+  },
+  {
+   "key": "csp_Xunlei8",
+   "name": "迅雷吧",
+   "type": 3,
+   "api": "csp_Xunlei8",
+   "playerType": 1,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "timeout": 60
+  },
+  {
+   "key": "SeedHub",
+   "name": "SeedHub",
+   "type": 3,
+   "api": "csp_SeedHub",
+   "playerType": "1",
+   "changeable": 0,
+   "timeout": 60
+  },
+  {
+   "key": "Mayiys",
+   "name": "蚂蚁",
+   "type": 3,
+   "api": "csp_Mayiys",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "changeable": 1
+  },
+  {
+   "key": "Wobg",
+   "name": "表哥",
+   "type": 3,
+   "api": "csp_Wobg",
+   "quickSearch": 1,
+   "changeable": 1,
+   "filterable": 1,
+   "timeout": 60,
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./json/wogg.json$$$WOBG"
+  },
+  {
+   "key": "yydsys",
+   "name": "老哥",
+   "type": 3,
+   "api": "csp_Wobg",
+   "quickSearch": 1,
+   "changeable": 1,
+   "filterable": 1,
+   "timeout": 60,
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./json/wogg.json$$$WNLG"
+  },
+  {
+   "key": "蜡笔网盘",
+   "name": "蜡笔",
+   "type": 3,
+   "api": "csp_Wobg",
+   "quickSearch": 1,
+   "changeable": 1,
+   "filterable": 1,
+   "timeout": 60,
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://duopan.fun/$$$noproxy$$$1$$$./json/wogg.json$$$LABI"
+  },
+  {
+   "key": "Panta",
+   "name": "盘Ta",
+   "type": 3,
+   "api": "csp_Panta",
+   "quickSearch": 1,
+   "changeable": 1,
+   "filterable": 1,
+   "timeout": 30,
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.91panta.cn/$$$null$$$1"
+  },
+  {
+   "key": "新6V",
+   "name": "新6V",
+   "type": 3,
+   "api": "csp_Xb6v",
+   "searchable": 1,
+   "changeable": 1,
+   "timeout": 60,
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.66ss.org$$$null$$$1"
+  },
+  {
+   "key": "YunPan",
+   "name": "云盘",
+   "type": 3,
+   "api": "csp_YunPan",
+   "timeout": 60,
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$null$$$proxy$$$1"
+  },
+  {
+   "key": "Wo4k",
+   "name": "玩偶4k",
+   "type": 3,
+   "api": "csp_Wo4k",
+   "quickSearch": 1,
+   "changeable": 1,
+   "filterable": 1,
+   "timeout": 60,
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./wogg.json"
+  },
+  {
+   "key": "Xpanpan",
+   "name": "小盘盘",
+   "type": 3,
+   "api": "csp_Xpanpan",
+   "quickSearch": 1,
+   "changeable": 1,
+   "filterable": 1,
+   "timeout": 60,
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://xpanpan.site$$$null$$$1",
+   "style": {
+    "type": "list",
+    "ratio": 1.1
+   }
+  },
+  {
+   "key": "盘友圈",
+   "name": "盘友圈",
+   "type": 3,
+   "api": "csp_Panyq",
+   "timeout": 60,
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json"
+  },
+  {
+   "key": "csp_HunHePan",
+   "name": "混合盘",
+   "type": 3,
+   "api": "csp_HunHePan",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1,
+   "filterable": 0,
+   "timeout": 60,
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$null$$$1"
+  },
+  {
+   "key": "YunSo",
+   "name": "小云",
+   "type": 3,
+   "api": "csp_YunSo",
+   "quickSearch": 1,
+   "changeable": 1,
+   "filterable": 1,
+   "timeout": 30,
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json"
+  },
+  {
+   "key": "YunPanOne",
+   "name": "云盘One",
+   "type": 3,
+   "api": "csp_YunPanOne",
+   "quickSearch": 1,
+   "changeable": 1,
+   "filterable": 1,
+   "timeout": 60,
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$proxy$$$1"
+  },
+  {
+   "key": "小紙條",
+   "name": "小紙條",
+   "type": 3,
+   "api": "csp_XiaoZhiTiao",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json",
+   "timeout": 30
+  },
+  {
+   "key": "找資源",
+   "name": "找資源",
+   "type": 3,
+   "api": "csp_Zhaozy",
+   "searchable": 1,
+   "changeable": 0,
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$fanty$$$qqq111",
+   "timeout": 30
+  },
+  {
    "key": "WebDAV",
    "name": "云盘",
    "type": 3,
@@ -737,45 +872,6 @@
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/market.json"
   },
   {
-   "key": "玩偶",
-   "name": "玩偶",
-   "type": 3,
-   "api": "csp_Wogg",
-   "searchable": 1,
-   "changeable": 0,
-   "ext": {
-    "token": "影視天下第一",
-    "filter": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/wogg.json"
-   }
-  },
-  {
-   "key": "賤賤",
-   "name": "賤賤",
-   "type": 3,
-   "api": "csp_Jianpian",
-   "searchable": 1,
-   "changeable": 1,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/jianpian.json"
-  },
-  {
-   "key": "獨播_2",
-   "name": "獨播",
-   "type": 3,
-   "api": "csp_XPathMacFilter",
-   "searchable": 1,
-   "changeable": 1,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/duboku.json"
-  },
-  {
-   "key": "新6V_2",
-   "name": "新6V",
-   "type": 3,
-   "api": "csp_Xb6v",
-   "searchable": 1,
-   "changeable": 0,
-   "timeout": 60
-  },
-  {
    "key": "異界",
    "name": "異界",
    "type": 3,
@@ -784,38 +880,12 @@
    "changeable": 1
   },
   {
-   "key": "哔哩",
-   "name": "哔哩",
-   "type": 3,
-   "api": "csp_Bili",
-   "searchable": 1,
-   "changeable": 0,
-   "style": {
-    "type": "rect",
-    "ratio": 1.433
-   },
-   "ext": {
-    "json": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/bili.json",
-    "type": "帕梅拉#太极拳#广场舞#演唱会",
-    "cookie": ""
-   }
-  },
-  {
    "key": "JustLive",
    "name": "JustLive",
    "type": 3,
    "api": "csp_JustLive",
    "searchable": 1,
    "changeable": 0
-  },
-  {
-   "key": "找資源_2",
-   "name": "找資源",
-   "type": 3,
-   "api": "csp_Zhaozy",
-   "searchable": 1,
-   "changeable": 0,
-   "ext": "影視天下第一$$$test2$$$test2"
   },
   {
    "key": "csp_DoubanForTVBox",
@@ -886,31 +956,6 @@
    "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
   },
   {
-   "key": "csp_WoGG",
-   "name": "玩偶影视4K",
-   "type": 3,
-   "api": "csp_Wogg",
-   "searchable": 1,
-   "changeable": 0,
-   "ext": {
-    "token": "CandyMuj",
-    "filter": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/conf/wogg.json"
-   }
-  },
-  {
-   "key": "csp_WoGG1",
-   "name": "玩偶影视4K-备1",
-   "type": 3,
-   "api": "csp_Wogg",
-   "searchable": 1,
-   "changeable": 0,
-   "ext": {
-    "token": "影視天下第一",
-    "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
-   },
-   "jar": "https://gh-proxy.com/github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
-  },
-  {
    "key": "csp_CandyMuj_yinfans",
    "name": "音范丝4K(磁力)",
    "type": 3,
@@ -975,22 +1020,6 @@
    "api": "csp_AppYsV2",
    "searchable": 1,
    "ext": "https://api123.adys.app/xgapp.php/v3/"
-  },
-  {
-   "key": "csp_Bili_2",
-   "name": "哔哩合集",
-   "type": 3,
-   "api": "csp_Bili",
-   "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 1,
-   "style": {
-    "type": "rect",
-    "ratio": 1.433
-   },
-   "ext": {
-    "json": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/conf/bili.json"
-   }
   },
   {
    "key": "csp_Czsapp",
@@ -1102,91 +1131,6 @@
    "api": "csp_Yj1211",
    "searchable": 1,
    "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/candymuj.jar"
-  },
-  {
-   "key": "csp_Bili_1",
-   "name": "少儿教育",
-   "type": 3,
-   "api": "csp_Bili",
-   "searchable": 0,
-   "quickSearch": 0,
-   "filterable": 1,
-   "changeable": 0,
-   "style": {
-    "type": "rect",
-    "ratio": 1.433
-   },
-   "ext": {
-    "json": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/conf/bili1.json"
-   }
-  },
-  {
-   "key": "csp_Bili_2_2",
-   "name": "小学课堂",
-   "type": 3,
-   "api": "csp_Bili",
-   "searchable": 0,
-   "quickSearch": 0,
-   "filterable": 1,
-   "changeable": 0,
-   "style": {
-    "type": "rect",
-    "ratio": 1.433
-   },
-   "ext": {
-    "json": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/conf/bili2.json"
-   }
-  },
-  {
-   "key": "csp_Bili_3",
-   "name": "初中课堂",
-   "type": 3,
-   "api": "csp_Bili",
-   "searchable": 0,
-   "quickSearch": 0,
-   "filterable": 1,
-   "changeable": 0,
-   "style": {
-    "type": "rect",
-    "ratio": 1.433
-   },
-   "ext": {
-    "json": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/conf/bili3.json"
-   }
-  },
-  {
-   "key": "csp_Bili_4",
-   "name": "高中课堂",
-   "type": 3,
-   "api": "csp_Bili",
-   "searchable": 0,
-   "quickSearch": 0,
-   "filterable": 1,
-   "changeable": 0,
-   "style": {
-    "type": "rect",
-    "ratio": 1.433
-   },
-   "ext": {
-    "json": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/conf/bili4.json"
-   }
-  },
-  {
-   "key": "csp_Bili_5",
-   "name": "戏曲",
-   "type": 3,
-   "api": "csp_Bili",
-   "searchable": 0,
-   "quickSearch": 0,
-   "filterable": 1,
-   "changeable": 0,
-   "style": {
-    "type": "rect",
-    "ratio": 1.433
-   },
-   "ext": {
-    "json": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/conf/bili5.json"
-   }
   },
   {
    "key": "csp_AList",
@@ -1914,14 +1858,6 @@
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/alist.json"
   },
   {
-   "key": "易搜_2",
-   "name": "易搜",
-   "type": 3,
-   "api": "csp_YiSo",
-   "searchable": 1,
-   "changeable": 0
-  },
-  {
    "key": "雲搜",
    "name": "雲搜",
    "type": 3,
@@ -1942,14 +1878,6 @@
    "name": "紙條搜",
    "type": 3,
    "api": "csp_XiaoZhiTiao",
-   "searchable": 1,
-   "changeable": 0
-  },
-  {
-   "key": "盤搜索_2",
-   "name": "盤搜索",
-   "type": 3,
-   "api": "csp_PanSearch",
    "searchable": 1,
    "changeable": 0
   },
@@ -2120,24 +2048,7 @@
    "timeout": 30
   },
   {
-   "key": "本地",
-   "name": "本地",
-   "type": 3,
-   "api": "csp_Local",
-   "searchable": 0,
-   "changeable": 0
-  },
-  {
    "key": "push_agent_2",
-   "name": "推送",
-   "type": 3,
-   "api": "csp_Push",
-   "searchable": 0,
-   "changeable": 0,
-   "timeout": 60
-  },
-  {
-   "key": "push_agent_3",
    "name": "推送(播放页链接或磁力)",
    "type": 3,
    "api": "csp_PushAgent",
