@@ -11,7 +11,8 @@
    "changeable": 1,
    "filterable": 1,
    "timeout": 60,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/wogg.json$$$WOGG"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/wogg.json$$$WOGG",
+   "indexs": 1
   },
   {
    "key": "csp_WoGG",
@@ -23,7 +24,8 @@
    "ext": {
     "token": "CandyMuj",
     "filter": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/wogg.json"
-   }
+   },
+   "indexs": 1
   },
   {
    "key": "csp_WoGG1",
@@ -36,7 +38,8 @@
     "token": "影視天下第一",
     "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
    },
-   "jar": "https://gh-proxy.com/github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+   "jar": "https://gh-proxy.com/github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
+   "indexs": 1
   },
   {
    "key": "泥巴",
@@ -44,7 +47,8 @@
    "type": 3,
    "api": "csp_NiNi",
    "searchable": 1,
-   "changeable": 1
+   "changeable": 1,
+   "indexs": 1
   },
   {
    "key": "星星",
@@ -52,7 +56,8 @@
    "type": 3,
    "api": "csp_Star",
    "searchable": 1,
-   "changeable": 1
+   "changeable": 1,
+   "indexs": 1
   },
   {
    "key": "獨播",
@@ -61,7 +66,8 @@
    "api": "csp_XPathMacFilter",
    "searchable": 1,
    "changeable": 0,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/duboku.json$$$socks5://127.0.0.1:10172"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/duboku.json$$$socks5://127.0.0.1:10172",
+   "indexs": 1
   },
   {
    "key": "影视",
@@ -69,7 +75,8 @@
    "type": 3,
    "api": "csp_YingShi",
    "searchable": 1,
-   "changeable": 1
+   "changeable": 1,
+   "indexs": 1
   },
   {
    "key": "櫻花",
@@ -77,7 +84,8 @@
    "type": 3,
    "api": "csp_Ying",
    "searchable": 1,
-   "changeable": 1
+   "changeable": 1,
+   "indexs": 1
   },
   {
    "key": "巴士",
@@ -85,7 +93,8 @@
    "type": 3,
    "api": "csp_Dm84",
    "searchable": 1,
-   "changeable": 1
+   "changeable": 1,
+   "indexs": 1
   },
   {
    "key": "Bdys_spider",
@@ -96,7 +105,8 @@
    "quickSearch": 1,
    "searchable": 1,
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.yjys01.com/$$$null$$$1",
-   "timeout": 60
+   "timeout": 60,
+   "indexs": 1
   },
   {
    "key": "荐片弹幕版",
@@ -107,7 +117,8 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/jianpian.json$$$1",
-   "timeout": 60
+   "timeout": 60,
+   "indexs": 1
   },
   {
    "key": "賤賤",
@@ -116,7 +127,8 @@
    "api": "csp_Jianpian",
    "searchable": 1,
    "changeable": 1,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/jianpian.json"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/jianpian.json",
+   "indexs": 1
   },
   {
    "key": "Bt0",
@@ -127,7 +139,8 @@
    "changeable": 1,
    "filterable": 1,
    "timeout": 60,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$null$$$proxy$$$1"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$null$$$proxy$$$1",
+   "indexs": 1
   },
   {
    "key": "csp_Kuaikan",
@@ -136,7 +149,8 @@
    "api": "csp_Kuaikan",
    "searchable": 1,
    "quickSearch": 1,
-   "filterable": 1
+   "filterable": 1,
+   "indexs": 1
   },
   {
    "key": "美剧迷",
@@ -147,7 +161,8 @@
    "changeable": 1,
    "filterable": 1,
    "timeout": 30,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.meijumi.xyz/$$$null$$$1"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.meijumi.xyz/$$$null$$$1",
+   "indexs": 1
   },
   {
    "key": "Ppxzy",
@@ -158,7 +173,8 @@
    "changeable": 1,
    "filterable": 1,
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://ppxzy.ink/$$$null$$$1",
-   "timeout": 30
+   "timeout": 30,
+   "indexs": 1
   },
   {
    "key": "Moli",
@@ -169,7 +185,8 @@
    "changeable": 1,
    "filterable": 1,
    "timeout": 60,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.hdmoli.pro/$$$null$$$1$$$https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/moli.json"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.hdmoli.pro/$$$null$$$1$$$https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/moli.json",
+   "indexs": 1
   },
   {
    "key": "Xinshijue",
@@ -180,7 +197,8 @@
    "changeable": 1,
    "filterable": 1,
    "timeout": 60,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.80yy3.com/$$$1$$$https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/wogg.json"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.80yy3.com/$$$1$$$https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/wogg.json",
+   "indexs": 1
   },
   {
    "key": "Gaoqing",
@@ -191,7 +209,8 @@
    "changeable": 1,
    "filterable": 1,
    "timeout": 60,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://gaoqing.la/$$$proxy$$$1"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://gaoqing.la/$$$proxy$$$1",
+   "indexs": 1
   },
   {
    "key": "音范丝",
@@ -202,7 +221,8 @@
    "changeable": 1,
    "filterable": 1,
    "timeout": 60,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.yinfans.me/$$$proxy$$$1"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.yinfans.me/$$$proxy$$$1",
+   "indexs": 1
   },
   {
    "key": "ddys",
@@ -213,7 +233,8 @@
    "changeable": 1,
    "filterable": 1,
    "timeout": 60,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://ddys.pro/$$$proxy$$$1$$$"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://ddys.pro/$$$proxy$$$1$$$",
+   "indexs": 1
   },
   {
    "key": "Hdhive",
@@ -224,7 +245,8 @@
    "changeable": 1,
    "filterable": 1,
    "timeout": 60,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://hdhive.online$$$noproxy$$$1$$$http://127.0.0.1:9978/file/TV/hdhive.txt"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://hdhive.online$$$noproxy$$$1$$$http://127.0.0.1:9978/file/TV/hdhive.txt",
+   "indexs": 1
   },
   {
    "key": "4KHDR",
@@ -234,7 +256,8 @@
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$http://127.0.0.1:9978/file/TV/4khdr.txt",
    "quickSearch": 1,
    "changeable": 1,
-   "timeout": 60
+   "timeout": 60,
+   "indexs": 1
   },
   {
    "key": "校长影视",
@@ -244,7 +267,8 @@
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://xzyshd.com$$$proxy$$$1",
    "quickSearch": 1,
    "changeable": 1,
-   "timeout": 30
+   "timeout": 30,
+   "indexs": 1
   },
   {
    "key": "团长资源",
@@ -254,7 +278,8 @@
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json",
    "quickSearch": 1,
    "changeable": 1,
-   "timeout": 30
+   "timeout": 30,
+   "indexs": 1
   },
   {
    "key": "Libvio",
@@ -265,7 +290,8 @@
    "changeable": 1,
    "filterable": 1,
    "timeout": 30,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.libvio.fun$$$null"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.libvio.fun$$$null",
+   "indexs": 1
   },
   {
    "key": "Qianfan",
@@ -276,7 +302,8 @@
    "changeable": 1,
    "filterable": 1,
    "timeout": 30,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://pan.qianfan.app$$$null$$$QianFanID="
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://pan.qianfan.app$$$null$$$QianFanID=",
+   "indexs": 1
   },
   {
    "key": "小白",
@@ -286,7 +313,8 @@
    "playerType": 1,
    "timeout": 60,
    "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E5%B0%8F%E7%99%BD.json"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E5%B0%8F%E7%99%BD.json",
+   "indexs": 1
   },
   {
    "key": "BT天堂",
@@ -298,7 +326,8 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/bttt.json",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
+   "indexs": 1
   },
   {
    "key": "布谷tv",
@@ -310,7 +339,8 @@
    "quickSearch": 1,
    "filterable": 1,
    "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E5%B8%83%E8%B0%B74K.json"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E5%B8%83%E8%B0%B74K.json",
+   "indexs": 1
   },
   {
    "key": "haokongbu",
@@ -322,7 +352,8 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E5%A5%BD%E6%81%90%E6%80%96.json",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
+   "indexs": 1
   },
   {
    "key": "圣城1080",
@@ -334,7 +365,8 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E5%9C%A3%E5%9F%8E1080.json",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
+   "indexs": 1
   },
   {
    "key": "秋霞",
@@ -346,7 +378,8 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E7%A7%8B%E9%9C%9E.json",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
+   "indexs": 1
   },
   {
    "key": "VidHub",
@@ -358,7 +391,8 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/VidHub.json",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
+   "indexs": 1
   },
   {
    "key": "rarbt",
@@ -370,7 +404,8 @@
    "filterable": 1,
    "api": "csp_XBPQ",
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/rarbt.json",
-   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar"
+   "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
+   "indexs": 1
   },
   {
    "key": "XBPQ_文才",
@@ -378,7 +413,8 @@
    "type": 3,
    "api": "csp_XBPQ",
    "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E6%96%87%E6%89%8D.json"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E6%96%87%E6%89%8D.json",
+   "indexs": 1
   },
   {
    "key": "XBPQ_BaiPiao",
@@ -386,7 +422,8 @@
    "type": 3,
    "api": "csp_XBPQ",
    "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E7%99%BD%E5%AB%96%E5%BD%B1%E8%A7%86.json"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E7%99%BD%E5%AB%96%E5%BD%B1%E8%A7%86.json",
+   "indexs": 1
   },
   {
    "key": "XBPQ_黑狐影院",
@@ -394,7 +431,8 @@
    "type": 3,
    "api": "csp_XBPQ",
    "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E9%BB%91%E7%8B%90%E5%BD%B1%E9%99%A2.json"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E9%BB%91%E7%8B%90%E5%BD%B1%E9%99%A2.json",
+   "indexs": 1
   },
   {
    "key": "XBPQ_电影先生",
@@ -402,7 +440,8 @@
    "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
    "type": 3,
    "api": "csp_XBPQ",
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E7%94%B5%E5%BD%B1%E5%85%88%E7%94%9F.json"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E7%94%B5%E5%BD%B1%E5%85%88%E7%94%9F.json",
+   "indexs": 1
   },
   {
    "key": "XBPQ_麻衣影院",
@@ -413,7 +452,8 @@
    "quickSearch": 1,
    "filterable": 1,
    "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E9%BA%BB%E8%A1%A3%E5%BD%B1%E9%99%A2.json"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E9%BA%BB%E8%A1%A3%E5%BD%B1%E9%99%A2.json",
+   "indexs": 1
   },
   {
    "key": "相声",
@@ -427,7 +467,8 @@
    "quickSearch": 0,
    "api": "csp_XBPQ",
    "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E7%9B%B8%E5%A3%B0.json"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E7%9B%B8%E5%A3%B0.json",
+   "indexs": 1
   },
   {
    "key": "评书",
@@ -441,7 +482,8 @@
    "quickSearch": 0,
    "api": "csp_XBPQ",
    "jar": "https://gh-proxy.com/raw.githubusercontent.com/DaviKee/tvbox-agg/main/jar/xbpq.jar",
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E8%AF%84%E4%B9%A6.json"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E8%AF%84%E4%B9%A6.json",
+   "indexs": 1
   },
   {
    "key": "豆瓣",
@@ -703,7 +745,8 @@
    "searchable": 1,
    "changeable": 1,
    "timeout": 60,
-   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.66ss.org$$$null$$$1"
+   "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.66ss.org$$$null$$$1",
+   "indexs": 1
   },
   {
    "key": "YunPan",
